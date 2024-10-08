@@ -2,6 +2,8 @@ Album Nidek è un'applicazione web che permette di visualizzare e gestire album 
 
 ![desktop](https://github.com/user-attachments/assets/f6b32587-d762-4d1d-8bef-59ddfb93c3a6)
 
+![desktop2](https://github.com/user-attachments/assets/5529768f-114a-4b0b-8317-f001cb35b05d)
+
 ## Funzionalità
 
 - **Tabella ordinabile**: Gli album possono essere ordinati in modo crescente o decrescente sia per titolo dell'album che per nome utente del proprietario.
@@ -11,9 +13,8 @@ Album Nidek è un'applicazione web che permette di visualizzare e gestire album 
   - Titolo dell'album
   - Galleria di tutte le foto dell'album, ognuna con il suo titolo.
 
-![smartphone](https://github.com/user-attachments/assets/9a7ae41b-5d3a-4d53-953e-cadc51ad83dd)
-
-![tablet](https://github.com/user-attachments/assets/14f98494-feae-4eb8-b160-ac5b091196dc)
+![smartphone](https://github.com/user-attachments/assets/9a7ae41b-5d3a-4d53-953e-cadc51ad83dd)                           
+![smartphone2](https://github.com/user-attachments/assets/d9e5cbd6-c67e-41f5-bf60-617b07604525)
 
 ## Installazione
 
