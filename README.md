@@ -1,5 +1,7 @@
 Album Nidek è un'applicazione web che permette di visualizzare e gestire album fotografici, con funzionalità di ricerca e ordinamento. L'app consente di sfogliare i titoli degli album e visualizzare il proprietario, offrendo una navigazione interattiva verso i dettagli degli album, inclusa una galleria fotografica con titoli.
 
+![desktop](https://github.com/user-attachments/assets/f6b32587-d762-4d1d-8bef-59ddfb93c3a6)
+
 ## Funzionalità
 
 - **Tabella ordinabile**: Gli album possono essere ordinati in modo crescente o decrescente sia per titolo dell'album che per nome utente del proprietario.
@@ -8,6 +10,10 @@ Album Nidek è un'applicazione web che permette di visualizzare e gestire album 
   - Nome del proprietario dell'album
   - Titolo dell'album
   - Galleria di tutte le foto dell'album, ognuna con il suo titolo.
+
+![smartphone](https://github.com/user-attachments/assets/9a7ae41b-5d3a-4d53-953e-cadc51ad83dd)
+
+![tablet](https://github.com/user-attachments/assets/14f98494-feae-4eb8-b160-ac5b091196dc)
 
 ## Installazione
 
@@ -29,10 +35,8 @@ npm start
 L'app sarà disponibile all'indirizzo http://localhost:3000 di default.
 
 Tecnologie utilizzate
-React: Per la creazione dell'interfaccia utente dinamica e componentizzata.
+React + Vite: Per la creazione dell'interfaccia utente dinamica e componentizzata.
 TypeScript: Per una tipizzazione sicura e robusta del codice JavaScript.
 React Router: Per la gestione della navigazione all'interno dell'app.
 Tailwind CSS: Per lo styling flessibile e reattivo dell'interfaccia.
 Fetch API: Per effettuare chiamate HTTP e ottenere i dati da servizi REST.
-=======
-# React + TypeScript + Vite
